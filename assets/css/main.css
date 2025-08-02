@@ -3687,7 +3687,7 @@ input, select, textarea {
 		}
 
 		.wrapper.style2 {
-			background-color: #353849;
+			background-color: #d48c9b;
 		}
 
 			.wrapper.style2:before, .wrapper.style2:after {
@@ -4429,6 +4429,7 @@ body.home::before { ... }
 .wrapper.spotlight.style2::before {
   border-right-color: #d48c9b !important; /* remplace le bleu par du vieux rose */
 }
+
 
 
 
