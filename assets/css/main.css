@@ -4217,29 +4217,20 @@ input, select, textarea {
   color: #ffffffcc;
 }
 .button-doctolib {
-  background-color: #c97a8d; /* Vieux rose */
-  color: #fff;
-  padding: 0.8em 1.5em;
+  background-color: #d48c9b;
+  color: white;
+  padding: 0.8em 1.2em;
   border-radius: 8px;
   font-weight: bold;
   text-decoration: none;
   display: inline-block;
-  border: none;
-  font-size: 1.1em;
-  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
   transition: background-color 0.3s ease;
 }
 
 .button-doctolib:hover {
-  background-color: #b56477;
+  background-color: #c17788;
+
 }
-
-
-
-.button-doctolib:hover {
-  background-color: #b56477;
-}
-
 .logo img {
   border-radius: 50%;
   width: 120px; /* Ajuste selon la taille désirée */
@@ -4414,10 +4405,6 @@ body.home::before { ... }
 .blog-entry a.button:hover {
   background-color: #005fa3;
 }
-
-
-
-
 
 
 
