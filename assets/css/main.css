@@ -4217,17 +4217,23 @@ input, select, textarea {
   color: #ffffffcc;
 }
 .button-doctolib {
- .button-doctolib {
-  background-color: #c97a8d !important;
-  color: #fff !important;
+  background-color: #c97a8d; /* Vieux rose */
+  color: #fff;
   padding: 0.8em 1.5em;
   border-radius: 8px;
   font-weight: bold;
   text-decoration: none;
   display: inline-block;
-  transition: background-color 0.3s ease;
   border: none;
+  font-size: 1.1em;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  transition: background-color 0.3s ease;
 }
+
+.button-doctolib:hover {
+  background-color: #b56477;
+}
+
 
 
 .button-doctolib:hover {
@@ -4408,6 +4414,7 @@ body.home::before { ... }
 .blog-entry a.button:hover {
   background-color: #005fa3;
 }
+
 
 
 
