@@ -4423,6 +4423,10 @@ body.home::before { ... }
 .blog-entry a.button:hover {
   background-color: #005fa3;
 }
+#one {
+  background-color: #f5e6e8; /* Par exemple un rose très clair */
+}
+
 
 
 
