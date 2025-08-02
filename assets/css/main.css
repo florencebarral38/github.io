@@ -4179,6 +4179,13 @@ input, select, textarea {
   margin-top: 0;
   color: #ffffffcc; /* blanc un peu transparent */
 }
+@media (max-width: 768px) {
+  .sous-titre {
+    text-align: center !important;
+    width: 100% !important;
+    margin: 0 auto !important;
+  }
+}
 .nom-praticien {
   font-family: 'Poppins', sans-serif;
   font-size: 2.5em;
@@ -4416,6 +4423,7 @@ body.home::before { ... }
 .blog-entry a.button:hover {
   background-color: #005fa3;
 }
+
 
 
 
