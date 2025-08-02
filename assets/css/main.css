@@ -4223,7 +4223,7 @@ input, select, textarea {
   border-radius: 8px;
   font-weight: bold;
   text-decoration: none;
-  display: inline-block;
+  display: inline-flex;
   transition: background-color 0.3s ease;
 }
 
@@ -4405,6 +4405,7 @@ body.home::before { ... }
 .blog-entry a.button:hover {
   background-color: #005fa3;
 }
+
 
 
 
