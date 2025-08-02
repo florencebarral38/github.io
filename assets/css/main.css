@@ -4217,20 +4217,19 @@ input, select, textarea {
   color: #ffffffcc;
 }
 .button-doctolib {
-  display: inline-block;
-  margin-top: 1em;
-  padding: 0.75em 1.5em;
-  background-color: #0066cc;
+  background-color: #d48c9b;
   color: white;
-  font-size: 1em;
-  border-radius: 6px;
-  text-decoration: none;
+  padding: 0.8em 1.2em;
+  border-radius: 8px;
   font-weight: bold;
+  text-decoration: none;
+  display: inline-block;
   transition: background-color 0.3s ease;
 }
 
 .button-doctolib:hover {
-  background-color: #004999;
+  background-color: #c17788;
+
 }
 .logo img {
   border-radius: 50%;
@@ -4406,6 +4405,7 @@ body.home::before { ... }
 .blog-entry a.button:hover {
   background-color: #005fa3;
 }
+
 
 
 
