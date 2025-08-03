@@ -4435,6 +4435,11 @@ body.home::before { ... }
 .wrapper.spotlight.style4::before {
   border-right-color: #d48c9b !important; /* Vieux rose */
 }
+/* Modification triangles SVG */
+section.wrapper .background polygon {
+  fill: #d48c9b !important;
+}
+
 
 
 
