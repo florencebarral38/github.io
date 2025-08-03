@@ -4429,6 +4429,14 @@ body.home::before { ... }
 .wrapper.spotlight.style2::before {
   border-right-color: #d48c9b !important; /* remplace le bleu par du vieux rose */
 }
+.wrapper.spotlight.style1::before,
+.wrapper.spotlight.style2::before,
+.wrapper.spotlight.style3::before,
+.wrapper.spotlight.style4::before {
+  border-right-color: #d48c9b !important; /* Vieux rose */
+}
+
+
 
 
 
