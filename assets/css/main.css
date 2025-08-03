@@ -4426,19 +4426,12 @@ body.home::before { ... }
 #one {
   background-color: #f5e6e8; /* Par exemple un rose très clair */
 }
-.wrapper.spotlight.style2::before {
-  border-right-color: #d48c9b !important; /* remplace le bleu par du vieux rose */
+section.wrapper svg polygon {
+  fill: #d48c9b !important; /* Vieux rose */
 }
-.wrapper.spotlight.style1::before,
-.wrapper.spotlight.style2::before,
-.wrapper.spotlight.style3::before,
-.wrapper.spotlight.style4::before {
-  border-right-color: #d48c9b !important; /* Vieux rose */
+
 }
-/* Modification triangles SVG */
-section.wrapper .background polygon {
-  fill: #d48c9b !important;
-}
+
 
 
 
