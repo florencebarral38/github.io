@@ -254,7 +254,7 @@ input, select, textarea {
 		color: #2e2e2e;
 		font-family: 'Great Vibes', cursive;
 		 text-transform: none; /* Désactive les majuscules */
-  font-size: 4 em; /* Ajuste selon ce que tu veux */
+  font-size: 9 em; /* Ajuste selon ce que tu veux */
   color: #3a2b2b; /* Ex : brun foncé */
   text-align: center;
 	}
@@ -4431,6 +4431,7 @@ section.wrapper svg polygon {
 }
 
 }
+
 
 
 
