@@ -252,11 +252,11 @@ input, select, textarea {
 
 	h1, h2, h3, h4, h5, h6 {
 		color: #2e2e2e;
-		font-family: 'Great Vibes', cursive;
-		 text-transform: none; /* Désactive les majuscules */
-  font-size: 20 em; /* Ajuste selon ce que tu veux */
-  color: #3a2b2b; /* Ex : brun foncé */
-  text-align: center;
+		 font-family: 'Great Vibes', cursive !important;
+  text-transform: none !important; /* Pas de majuscules forcées */
+  font-size: 4em !important; /* Taille augmentée */
+  color: #3a2b2b !important; /* Couleur du texte */
+  text-align: center !important;
 	}
 
 		h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
@@ -4431,6 +4431,7 @@ section.wrapper svg polygon {
 }
 
 }
+
 
 
 
