@@ -4429,12 +4429,13 @@ body.home::before { ... }
 section.wrapper svg polygon {
   fill: #d48c9b !important; /* Vieux rose */
 }
-h2. {
+h2.major {
   font-family: 'Great Vibes', cursive;
   font-size: 4em;
   color: #4c5c96;
 }
 }
+
 
 
 
