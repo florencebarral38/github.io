@@ -3775,7 +3775,7 @@ input, select, textarea {
 			}
 
 			.wrapper.spotlight:before {
-				box-shadow: inset 0 -1px 0 0 #4c5c96, 0 1px 0 0 #4c5c96;
+				box-shadow: inset 0 -1px 0 0 #000000, 0 1px 0 0 #4c5c96;
 			}
 
 			.wrapper.spotlight:after {
@@ -4438,6 +4438,7 @@ h2.major {
   color: #2e2e2e; /* couleur appliquée à tout le texte de la section */
 }
 }
+
 
 
 
